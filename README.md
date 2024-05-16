@@ -1,5 +1,8 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
 
+## Name: NIRMAL .N
+## REG NO :212223240107
+
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 
